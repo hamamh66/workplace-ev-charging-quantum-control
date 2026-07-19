@@ -1,0 +1,10 @@
+measure,value
+data_path,/content/drive/MyDrive/Datasets/Energy/station_data_dataverse.csv
+raw_rows,3395
+users,85
+stations,105
+zero_energy,55
+distance_missing_pct,31.36966126656848
+maximum_duration_h,55.23805556
+clean_rows,3332
+removed_rows,63

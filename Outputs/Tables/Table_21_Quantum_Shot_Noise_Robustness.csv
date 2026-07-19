@@ -1,0 +1,8 @@
+condition,roc_auc
+128 shots,0.616224
+512 shots,0.6392
+2048 shots,0.640672
+depolarizing p=0.001,0.635904
+depolarizing p=0.005,0.635904
+depolarizing p=0.01,0.635904
+depolarizing p=0.02,0.6367999999999999
